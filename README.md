@@ -1,5 +1,6 @@
 # Trading-Crypto-Stocks-Recommendation
-AI Enchanced Project for recommendation of Trading/Crypto/Stocks which we Build for Scale 91 Hackathon.
+AI Enchanced Project for recommendation of Trading/Crypto/Stocks which we Build for DTU Hacakthon got 1st position at Execute 3.0 by Zebpay.
+Presented at Scale 91 Hackathon also got top 10 position.
 
 How to Use it :
  
